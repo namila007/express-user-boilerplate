@@ -1,9 +1,9 @@
 /*
- * Created on Mon Jun 08 2020
+ * Created on Thu Aug 13 2020
  * Authored by Namila Bandara
- * Copyright (c) 2020
- * https://github.com/namila007/aws-s3-js-tutorial
+ * Copyright (c) 2020 https://namila.me
  */
+
 const config = require("./config/config")
 const express = require("express")
 const bodyParser = require("body-parser")
